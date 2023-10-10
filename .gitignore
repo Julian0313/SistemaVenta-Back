@@ -1,0 +1,204 @@
+# Carpeta de salida generada por Visual Studio
+bin/
+obj/
+
+# Carpeta de respaldo para recuperación automática de Visual Studio
+.vscode/
+
+# Carpeta de archivos de usuario para Visual Studio
+.vs/
+
+# Carpetas específicas de Windows
+Thumbs.db
+Desktop.ini
+
+# Carpeta que contiene información de configuración del usuario
+AppData/
+
+# Carpetas específicas de ReSharper
+_ReSharper/
+
+# Archivo de solución y carpetas de configuración de usuario
+*.suo
+*.user
+*.suo
+*.sln.docstates
+
+# Carpetas de recopilación de código
+[Tt]est[Rr]esult*/
+[Bb]in
+[Oo]bj
+
+# Archivos de recopilación de código
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.tmp
+*.log
+*.npm-debug.log*
+
+# Archivos de construcción de Visual Studio
+*.iobj
+*.ipch
+*.ncb
+*.iobj
+*.pdb
+*.log
+*.idb
+*.exp
+*.usertype.dat
+*.manifest
+*.appx
+
+# Archivos de referencia de Visual Studio
+_ReSharper*/
+*.suo
+*.user
+*.suo
+*.sln.docstates
+*.suo
+*.user
+*.suo
+*.userosscache
+*.suo
+*.suo
+*.userosscache
+*.suo
+
+# Archivos de Windows Installer
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Archivos de instalación de Windows
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# Recursos de Windows
+*.resx
+
+# Carpetas de archivos temporales
+$Recycle.Bin/
+ehthumbs.db
+Thumbs.db
+
+# Carpetas creadas por Windows para archivos comprimidos y miniaturas
+$RECYCLE.BIN/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+$Recycle.Bin/
+
+# Carpeta de archivos temporales de SASS
+.sass-cache/
+
+# Carpeta de Node.js
+node_modules/
+
+# Carpeta de bower
+bower_components/
+
+# Carpeta de TypeScript
+typings/
+
+# Visual Studio 2019 config folder
+.vs2019/
