@@ -82,7 +82,7 @@ namespace SistemaVenta.BLL.Servicios
 
                 listaResultado = await query
                     .Include(p=> p.IdProductoNavigation)
-                    .Include(v=> v.IdDetalleVenta)
+                    .Include(v=> v.IdVentaNavigation)
                     .Where(dv =>
                         dv.IdVentaNavigation.FechaRegistro.Value.Date >= fech_Inicio.Date &&
                         dv.IdVentaNavigation.FechaRegistro.Value.Date <= fech_Fin.Date).ToListAsync();

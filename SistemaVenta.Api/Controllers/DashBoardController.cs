@@ -16,8 +16,8 @@ namespace SistemaVenta.Api.Controllers
         }
         
         [HttpGet]
-        [Route("Lista")]
-        public async Task<IActionResult> Lista()
+        [Route("Resumen")]
+        public async Task<IActionResult> Resumen()
         {
             var rsp = new Response<DashBoardDTO>();
             try
